@@ -1,0 +1,8 @@
+----Change Log------
+
+The begining of Ender X Mod 2.2
+
+3/15/20 - Added surface ores
+	  Added nether ores
+	  Added creative tab for ores
+	  Added creative tab for blocks
