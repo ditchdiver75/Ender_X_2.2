@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/ore_chromium",
+    "up": "enderx22:blocks/ore_chromium",
+    "north": "enderx22:blocks/ore_chromium",
+    "east": "enderx22:blocks/ore_chromium",
+    "south": "enderx22:blocks/ore_chromium",
+    "west": "enderx22:blocks/ore_chromium",
+    "particle": "enderx22:blocks/ore_chromium"
+  }
+}

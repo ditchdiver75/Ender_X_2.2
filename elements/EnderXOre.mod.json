@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Ender X Ore",
+    "icon": {
+      "value": "Blocks.IRON_ORE"
+    },
+    "showSearch": false
+  }
+}

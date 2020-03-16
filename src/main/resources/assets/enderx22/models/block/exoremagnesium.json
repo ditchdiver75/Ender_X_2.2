@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/ore_magnesium",
+    "up": "enderx22:blocks/ore_magnesium",
+    "north": "enderx22:blocks/ore_magnesium",
+    "east": "enderx22:blocks/ore_magnesium",
+    "south": "enderx22:blocks/ore_magnesium",
+    "west": "enderx22:blocks/ore_magnesium",
+    "particle": "enderx22:blocks/ore_magnesium"
+  }
+}

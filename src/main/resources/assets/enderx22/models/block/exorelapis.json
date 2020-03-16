@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/ore_lapis",
+    "up": "enderx22:blocks/ore_lapis",
+    "north": "enderx22:blocks/ore_lapis",
+    "east": "enderx22:blocks/ore_lapis",
+    "south": "enderx22:blocks/ore_lapis",
+    "west": "enderx22:blocks/ore_lapis",
+    "particle": "enderx22:blocks/ore_lapis"
+  }
+}
