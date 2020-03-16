@@ -200,37 +200,655 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "EXNetherChromium",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherCoal",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherCopper",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherDiamond",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherEmerald",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherEnder",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherGold",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherIron",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherLapis",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherLead",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherMagnesium",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherMolybdenium",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherNickle",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherQuartz",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherRedstone",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherSilver",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherSlimmy",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherSulfer",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherTitanium",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXNetherZinc",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnderXItems",
+      "type": "tab",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXBackpack",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXBasaltStick",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXBrickMold",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXCarbonFiberSheet",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXCarbonPolymerMix",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXCautionTape",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitaniumRod",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXChromolyCompacitor",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXChroiumenderCompacitor",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ExGoldCompacitor",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXChromolyMachineBlock",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXChromolyenderMachineBlock",
+      "type": "item",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXCircitWiring",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXBallofClay",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXClayBrick",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXClearGlass",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitaniumShard",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitaniumShards",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumShardsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitaniumLump",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TitaniumLumpRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitaniumIngot",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitaniumIngotRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXCrushedBone",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDecoMain",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDiePlateBlock",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDiePlateBricks",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDiePlateGem",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDiePlatePellet",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDiePlateRod",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXDiePlateMetalPlates",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXFuelPellet",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXMachineCase",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXMachineFrame",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXPlasticPolymer",
+      "type": "item",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXPlasticSheets",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXPortalSepter",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXQuartz",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXRingofFlight",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXRubberball",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXRubberTreeResin",
+      "type": "item",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSilicon",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXStdMachineCase",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSulfer",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXWoodRedstoneMix",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXWoodFibers",
+      "type": "item",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXWater",
+      "type": "item",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXLava",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.enderx22.exoreredstone": "EX Ore Redstone",
-      "block.enderx22.exorelead": "EX Ore Lead",
-      "block.enderx22.exorechromium": "EX Ore Chromium",
+      "item.enderx22.exwoodredstonemix": "EX Wood Redstone Mix",
+      "block.enderx22.exnetherdiamond": "EX Nether Diamond",
+      "block.enderx22.exnethernickle": "EX Nether Nickle",
+      "item.enderx22.exdieplateblock": "EX Die Plate Block",
+      "item.enderx22.exportalsepter": "EX Portal Septer",
       "block.enderx22.exorezinc": "EX Ore Zinc",
+      "block.enderx22.exnethercoal": "EX Nether Coal",
+      "item.enderx22.exlava": "EX Lava",
       "block.enderx22.exoresulfer": "EX Ore Sulfer",
+      "block.enderx22.exnetherlapis": "EX Nether Lapis",
+      "item.enderx22.exstdmachinecase": "EX Std Machine Case",
       "block.enderx22.exorequartz": "EX Ore Quartz",
+      "item.enderx22.exclaybrick": "EX Clay Brick",
       "block.enderx22.exorecoal": "EX Ore Coal",
+      "block.enderx22.exnetherzinc": "EX Nether Zinc",
+      "item.enderx22.excautiontape": "EX Caution Tape",
+      "block.enderx22.exnethermolybdenium": "EX Nether Molybdenium",
+      "item.enderx22.exdieplatepellet": "EX Die Plate Pellet",
+      "block.enderx22.exnethercopper": "EX Nether Copper",
+      "item.enderx22.exsilicon": "EX Silicon",
+      "item.enderx22.exdieplategem": "EX Die Plate Gem",
+      "block.enderx22.exoremagnesium": "EX Ore Magnesium",
+      "block.enderx22.exorediamond": "EX Ore Diamond",
+      "block.enderx22.exorelapis": "EX Ore Lapis",
+      "item.enderx22.exballofclay": "EX Ballof Clay",
+      "item.enderx22.exdieplaterod": "EX Die Plate Rod",
+      "item.enderx22.exsulfer": "EX Sulfer",
+      "block.enderx22.exnetherslimmy": "EX Nether Slimmy",
+      "item.enderx22.excrushedbone": "EX Crushed Bone",
+      "block.enderx22.exoreender": "EX Ore Ender",
+      "item.enderx22.exwater": "EX Water",
+      "item.enderx22.explasticpolymer": "EX Plastic Polymer",
+      "item.enderx22.exrubberball": "EX Rubberball",
+      "block.enderx22.exoretitanium": "EX Ore Titanium",
+      "block.enderx22.exoreslimmy": "EX Ore Slimmy",
+      "block.enderx22.exnethertitanium": "EX Nether Titanium",
+      "item.enderx22.exchromolymachineblock": "EX Chromoly Machine Block",
+      "item.enderx22.exmachinecase": "EX Machine Case",
+      "itemGroup.tabenderxore": "Ender X Ore",
+      "item.enderx22.exrubbertreeresin": "EX Rubber Tree Resin",
+      "block.enderx22.exnethergold": "EX Nether Gold",
+      "block.enderx22.exnetherlead": "EX Nether Lead",
+      "item.enderx22.excarbonfibersheet": "EX Carbon Fiber Sheet",
+      "item.enderx22.exchromolycompacitor": "EX Chromoly Compacitor",
+      "item.enderx22.explasticsheets": "EX Plastic Sheets",
+      "item.enderx22.exwoodfibers": "EX Wood Fibers",
+      "block.enderx22.exoreredstone": "EX Ore Redstone",
+      "item.enderx22.exfuelpellet": "EX Fuel Pellet",
+      "item.enderx22.excircitwiring": "EX Circit Wiring",
+      "block.enderx22.exorelead": "EX Ore Lead",
+      "block.enderx22.exnetherquartz": "EX Nether Quartz",
+      "block.enderx22.exnethersulfer": "EX Nether Sulfer",
+      "item.enderx22.extitaniumrod": "EX Titanium Rod",
+      "item.enderx22.exchroiumendercompacitor": "EX Chroiumender Compacitor",
+      "block.enderx22.exorechromium": "EX Ore Chromium",
+      "item.enderx22.extitaniumshard": "EX Titanium Shard",
+      "item.enderx22.extitaniumlump": "EX Titanium Lump",
+      "block.enderx22.exnetheriron": "EX Nether Iron",
+      "block.enderx22.exnetherchromium": "EX Nether Chromium",
+      "block.enderx22.exnethermagnesium": "EX Nether Magnesium",
+      "item.enderx22.exringofflight": "EX Ringof Flight",
+      "item.enderx22.exbrickmold": "EX Brick Mold",
+      "item.enderx22.exchromolyendermachineblock": "EX Chromolyender Machine Block",
+      "item.enderx22.extitaniumshards": "EX Titanium Shards",
+      "item.enderx22.exbasaltstick": "EX Basalt Stick",
+      "item.enderx22.excarbonpolymermix": "EX Carbon Polymer Mix",
       "block.enderx22.exoreblaze": "EX Ore Blaze",
+      "block.enderx22.exnetherredstone": "EX Nether Redstone",
       "block.enderx22.exnetherack": "EX Netherack",
       "block.enderx22.exnetherblaze": "EX Nether Blaze",
+      "block.enderx22.exnetherender": "EX Nether Ender",
       "block.enderx22.exorecopper": "EX Ore Copper",
       "block.enderx22.exoregold": "EX Ore Gold",
       "itemGroup.tabenderxblocks": "Ender X Blocks",
-      "block.enderx22.exorediamond": "EX Ore Diamond",
-      "block.enderx22.exoremagnesium": "EX Ore Magnesium",
       "block.enderx22.exoremolybdenium": "EX Ore Molybdenium",
-      "block.enderx22.exorelapis": "EX Ore Lapis",
+      "block.enderx22.exnetheremerald": "EX Nether Emerald",
       "block.enderx22.exoreemerald": "EX Ore Emerald",
-      "block.enderx22.exoreender": "EX Ore Ender",
-      "block.enderx22.exoretitanium": "EX Ore Titanium",
-      "block.enderx22.exoreslimmy": "EX Ore Slimmy",
-      "itemGroup.tabenderxore": "Ender X Ore",
+      "item.enderx22.exbackpack": "EX Backpack",
+      "item.enderx22.exdieplatemetalplates": "EX Die Plate Metal Plates",
+      "item.enderx22.exclearglass": "EX Clear Glass",
+      "item.enderx22.exdieplatebricks": "EX Die Plate Bricks",
+      "item.enderx22.extitaniumingot": "EX Titanium Ingot",
       "block.enderx22.exorenickle": "EX Ore Nickle",
+      "itemGroup.tabenderxitems": "Ender X Items",
       "block.enderx22.exoreiron": "EX Ore Iron",
-      "block.enderx22.exoresilver": "EX Ore Silver"
+      "item.enderx22.exgoldcompacitor": "Ex Gold Compacitor",
+      "item.enderx22.exdecomain": "EX Deco Main",
+      "block.enderx22.exoresilver": "EX Ore Silver",
+      "block.enderx22.exnethersilver": "EX Nether Silver",
+      "item.enderx22.exmachineframe": "EX Machine Frame",
+      "item.enderx22.exquartz": "EX Quartz"
     }
   },
   "workspaceSettings": {

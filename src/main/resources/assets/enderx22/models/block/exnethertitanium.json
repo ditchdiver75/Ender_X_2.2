@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/nether_titanium",
+    "up": "enderx22:blocks/nether_titanium",
+    "north": "enderx22:blocks/nether_titanium",
+    "east": "enderx22:blocks/nether_titanium",
+    "south": "enderx22:blocks/nether_titanium",
+    "west": "enderx22:blocks/nether_titanium",
+    "particle": "enderx22:blocks/nether_titanium"
+  }
+}

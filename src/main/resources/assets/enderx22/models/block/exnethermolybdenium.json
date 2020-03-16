@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/nether_molydbenium",
+    "up": "enderx22:blocks/nether_molydbenium",
+    "north": "enderx22:blocks/nether_molydbenium",
+    "east": "enderx22:blocks/nether_molydbenium",
+    "south": "enderx22:blocks/nether_molydbenium",
+    "west": "enderx22:blocks/nether_molydbenium",
+    "particle": "enderx22:blocks/nether_molydbenium"
+  }
+}

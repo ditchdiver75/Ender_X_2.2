@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/nether_coal",
+    "up": "enderx22:blocks/nether_coal",
+    "north": "enderx22:blocks/nether_coal",
+    "east": "enderx22:blocks/nether_coal",
+    "south": "enderx22:blocks/nether_coal",
+    "west": "enderx22:blocks/nether_coal",
+    "particle": "enderx22:blocks/nether_coal"
+  }
+}

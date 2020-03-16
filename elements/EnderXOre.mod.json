@@ -4,8 +4,8 @@
   "definition": {
     "name": "Ender X Ore",
     "icon": {
-      "value": "Blocks.IRON_ORE"
+      "value": "CUSTOM:EXOreDiamond"
     },
-    "showSearch": false
+    "showSearch": true
   }
 }

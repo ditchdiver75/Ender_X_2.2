@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/nether_zinc",
+    "up": "enderx22:blocks/nether_zinc",
+    "north": "enderx22:blocks/nether_zinc",
+    "east": "enderx22:blocks/nether_zinc",
+    "south": "enderx22:blocks/nether_zinc",
+    "west": "enderx22:blocks/nether_zinc",
+    "particle": "enderx22:blocks/nether_zinc"
+  }
+}

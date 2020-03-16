@@ -1,0 +1,11 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "ingredient": {
+    "item": "enderx22:extitaniumlump"
+  },
+  "result": {
+    "item": "enderx22:extitaniumingot"
+  }
+}

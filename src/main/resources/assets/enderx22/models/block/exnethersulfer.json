@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/nether_sulfer",
+    "up": "enderx22:blocks/nether_sulfer",
+    "north": "enderx22:blocks/nether_sulfer",
+    "east": "enderx22:blocks/nether_sulfer",
+    "south": "enderx22:blocks/nether_sulfer",
+    "west": "enderx22:blocks/nether_sulfer",
+    "particle": "enderx22:blocks/nether_sulfer"
+  }
+}
