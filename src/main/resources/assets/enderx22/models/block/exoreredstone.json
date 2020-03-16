@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/ore_redstone",
+    "up": "enderx22:blocks/ore_redstone",
+    "north": "enderx22:blocks/ore_redstone",
+    "east": "enderx22:blocks/ore_redstone",
+    "south": "enderx22:blocks/ore_redstone",
+    "west": "enderx22:blocks/ore_redstone",
+    "particle": "enderx22:blocks/ore_redstone"
+  }
+}
