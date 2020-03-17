@@ -15,7 +15,7 @@ public class EXMachineFrameItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exmachineframe")
 	public static final Item block = null;
 	public EXMachineFrameItem(EnderXModElements instance) {
-		super(instance, 77);
+		super(instance, 71);
 	}
 
 	@Override

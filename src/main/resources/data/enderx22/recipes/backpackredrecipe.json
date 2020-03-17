@@ -1,0 +1,36 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "minecraft:red_dye"
+    },
+    "6": {
+      "item": "minecraft:leather"
+    },
+    "7": {
+      "item": "minecraft:string"
+    },
+    "8": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "enderx22:exbackpackred",
+    "count": 1
+  }
+}

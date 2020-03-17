@@ -15,7 +15,7 @@ public class EXPlasticPolymerItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:explasticpolymer")
 	public static final Item block = null;
 	public EXPlasticPolymerItem(EnderXModElements instance) {
-		super(instance, 78);
+		super(instance, 72);
 	}
 
 	@Override

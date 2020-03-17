@@ -15,7 +15,7 @@ public class EXTitaniumRodItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:extitaniumrod")
 	public static final Item block = null;
 	public EXTitaniumRodItem(EnderXModElements instance) {
-		super(instance, 51);
+		super(instance, 45);
 	}
 
 	@Override

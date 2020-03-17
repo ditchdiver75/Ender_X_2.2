@@ -15,7 +15,7 @@ public class EXTitaniumIngotItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:extitaniumingot")
 	public static final Item block = null;
 	public EXTitaniumIngotItem(EnderXModElements instance) {
-		super(instance, 66);
+		super(instance, 106);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ public class EXPlasticSheetsItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:explasticsheets")
 	public static final Item block = null;
 	public EXPlasticSheetsItem(EnderXModElements instance) {
-		super(instance, 79);
+		super(instance, 73);
 	}
 
 	@Override

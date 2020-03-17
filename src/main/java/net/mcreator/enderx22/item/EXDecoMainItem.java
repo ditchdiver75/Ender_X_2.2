@@ -15,7 +15,7 @@ public class EXDecoMainItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exdecomain")
 	public static final Item block = null;
 	public EXDecoMainItem(EnderXModElements instance) {
-		super(instance, 68);
+		super(instance, 63);
 	}
 
 	@Override

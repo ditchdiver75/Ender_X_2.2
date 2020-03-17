@@ -15,7 +15,7 @@ public class EXClearGlassItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exclearglass")
 	public static final Item block = null;
 	public EXClearGlassItem(EnderXModElements instance) {
-		super(instance, 60);
+		super(instance, 58);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ public class EXRingofFlightItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exringofflight")
 	public static final Item block = null;
 	public EXRingofFlightItem(EnderXModElements instance) {
-		super(instance, 82);
+		super(instance, 76);
 	}
 
 	@Override

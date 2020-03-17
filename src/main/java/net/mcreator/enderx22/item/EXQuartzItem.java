@@ -15,7 +15,7 @@ public class EXQuartzItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exquartz")
 	public static final Item block = null;
 	public EXQuartzItem(EnderXModElements instance) {
-		super(instance, 81);
+		super(instance, 75);
 	}
 
 	@Override

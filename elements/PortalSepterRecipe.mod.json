@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXBasaltStick"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXPortalSepter"
+    },
+    "name": "portalsepterrecipe",
+    "namespace": "mod"
+  }
+}

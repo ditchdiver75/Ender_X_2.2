@@ -25,7 +25,7 @@ public class EXNetherChromiumBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherchromium")
 	public static final Block block = null;
 	public EXNetherChromiumBlock(EnderXModElements instance) {
-		super(instance, 25);
+		super(instance, 23);
 	}
 
 	@Override

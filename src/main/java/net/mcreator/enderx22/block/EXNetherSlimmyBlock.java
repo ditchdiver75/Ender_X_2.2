@@ -25,7 +25,7 @@ public class EXNetherSlimmyBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherslimmy")
 	public static final Block block = null;
 	public EXNetherSlimmyBlock(EnderXModElements instance) {
-		super(instance, 41);
+		super(instance, 39);
 	}
 
 	@Override

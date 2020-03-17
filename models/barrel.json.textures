@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "barrel_planks",
+        "1": "iron"
+      },
+      "name": "default"
+    }
+  }
+}

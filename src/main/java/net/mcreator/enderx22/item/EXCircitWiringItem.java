@@ -15,7 +15,7 @@ public class EXCircitWiringItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:excircitwiring")
 	public static final Item block = null;
 	public EXCircitWiringItem(EnderXModElements instance) {
-		super(instance, 57);
+		super(instance, 55);
 	}
 
 	@Override

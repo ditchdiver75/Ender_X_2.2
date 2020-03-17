@@ -13,7 +13,7 @@ import net.mcreator.enderx22.EnderXModElements;
 @EnderXModElements.ModElement.Tag
 public class EnderXBlocksItemGroup extends EnderXModElements.ModElement {
 	public EnderXBlocksItemGroup(EnderXModElements instance) {
-		super(instance, 22);
+		super(instance, 111);
 	}
 
 	@Override

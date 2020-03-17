@@ -25,7 +25,7 @@ public class EXNetherCopperBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnethercopper")
 	public static final Block block = null;
 	public EXNetherCopperBlock(EnderXModElements instance) {
-		super(instance, 27);
+		super(instance, 25);
 	}
 
 	@Override

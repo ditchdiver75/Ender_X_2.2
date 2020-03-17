@@ -15,7 +15,7 @@ public class EXDiePlateBricksItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exdieplatebricks")
 	public static final Item block = null;
 	public EXDiePlateBricksItem(EnderXModElements instance) {
-		super(instance, 70);
+		super(instance, 65);
 	}
 
 	@Override

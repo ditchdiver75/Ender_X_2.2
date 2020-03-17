@@ -15,7 +15,7 @@ public class EXCarbonFiberSheetItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:excarbonfibersheet")
 	public static final Item block = null;
 	public EXCarbonFiberSheetItem(EnderXModElements instance) {
-		super(instance, 48);
+		super(instance, 47);
 	}
 
 	@Override

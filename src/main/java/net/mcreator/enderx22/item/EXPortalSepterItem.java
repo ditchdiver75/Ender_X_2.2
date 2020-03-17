@@ -15,7 +15,7 @@ public class EXPortalSepterItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exportalsepter")
 	public static final Item block = null;
 	public EXPortalSepterItem(EnderXModElements instance) {
-		super(instance, 80);
+		super(instance, 74);
 	}
 
 	@Override

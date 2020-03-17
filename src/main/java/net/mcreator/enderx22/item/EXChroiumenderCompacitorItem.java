@@ -15,7 +15,7 @@ public class EXChroiumenderCompacitorItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exchroiumendercompacitor")
 	public static final Item block = null;
 	public EXChroiumenderCompacitorItem(EnderXModElements instance) {
-		super(instance, 53);
+		super(instance, 51);
 	}
 
 	@Override

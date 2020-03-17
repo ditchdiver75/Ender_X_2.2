@@ -15,7 +15,7 @@ public class EXSiliconItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exsilicon")
 	public static final Item block = null;
 	public EXSiliconItem(EnderXModElements instance) {
-		super(instance, 85);
+		super(instance, 79);
 	}
 
 	@Override

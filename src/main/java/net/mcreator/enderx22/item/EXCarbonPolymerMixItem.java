@@ -15,7 +15,7 @@ public class EXCarbonPolymerMixItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:excarbonpolymermix")
 	public static final Item block = null;
 	public EXCarbonPolymerMixItem(EnderXModElements instance) {
-		super(instance, 49);
+		super(instance, 48);
 	}
 
 	@Override

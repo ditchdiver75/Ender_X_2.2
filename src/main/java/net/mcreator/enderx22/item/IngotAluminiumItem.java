@@ -11,11 +11,11 @@ import net.mcreator.enderx22.itemgroup.EnderXItemsItemGroup;
 import net.mcreator.enderx22.EnderXModElements;
 
 @EnderXModElements.ModElement.Tag
-public class EXBackpackItem extends EnderXModElements.ModElement {
-	@ObjectHolder("enderx22:exbackpack")
+public class IngotAluminiumItem extends EnderXModElements.ModElement {
+	@ObjectHolder("enderx22:ingotaluminium")
 	public static final Item block = null;
-	public EXBackpackItem(EnderXModElements instance) {
-		super(instance, 45);
+	public IngotAluminiumItem(EnderXModElements instance) {
+		super(instance, 92);
 	}
 
 	@Override
@@ -24,8 +24,8 @@ public class EXBackpackItem extends EnderXModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(EnderXItemsItemGroup.tab).maxStackSize(1));
-			setRegistryName("exbackpack");
+			super(new Item.Properties().group(EnderXItemsItemGroup.tab).maxStackSize(64));
+			setRegistryName("ingotaluminium");
 		}
 
 		@Override

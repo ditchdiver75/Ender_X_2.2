@@ -15,7 +15,7 @@ public class EXTitaniumShardItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:extitaniumshard")
 	public static final Item block = null;
 	public EXTitaniumShardItem(EnderXModElements instance) {
-		super(instance, 61);
+		super(instance, 59);
 	}
 
 	@Override

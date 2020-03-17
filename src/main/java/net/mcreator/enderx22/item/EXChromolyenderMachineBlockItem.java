@@ -15,7 +15,7 @@ public class EXChromolyenderMachineBlockItem extends EnderXModElements.ModElemen
 	@ObjectHolder("enderx22:exchromolyendermachineblock")
 	public static final Item block = null;
 	public EXChromolyenderMachineBlockItem(EnderXModElements instance) {
-		super(instance, 56);
+		super(instance, 54);
 	}
 
 	@Override

@@ -13,7 +13,7 @@ import net.mcreator.enderx22.EnderXModElements;
 @EnderXModElements.ModElement.Tag
 public class EnderXOreItemGroup extends EnderXModElements.ModElement {
 	public EnderXOreItemGroup(EnderXModElements instance) {
-		super(instance, 1);
+		super(instance, 110);
 	}
 
 	@Override

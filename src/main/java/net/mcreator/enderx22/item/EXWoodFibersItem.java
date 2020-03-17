@@ -15,7 +15,7 @@ public class EXWoodFibersItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exwoodfibers")
 	public static final Item block = null;
 	public EXWoodFibersItem(EnderXModElements instance) {
-		super(instance, 89);
+		super(instance, 84);
 	}
 
 	@Override

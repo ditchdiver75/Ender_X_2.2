@@ -15,7 +15,7 @@ public class EXRubberballItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exrubberball")
 	public static final Item block = null;
 	public EXRubberballItem(EnderXModElements instance) {
-		super(instance, 83);
+		super(instance, 77);
 	}
 
 	@Override

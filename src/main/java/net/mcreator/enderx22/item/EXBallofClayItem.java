@@ -15,7 +15,7 @@ public class EXBallofClayItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exballofclay")
 	public static final Item block = null;
 	public EXBallofClayItem(EnderXModElements instance) {
-		super(instance, 58);
+		super(instance, 56);
 	}
 
 	@Override

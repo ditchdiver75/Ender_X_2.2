@@ -15,7 +15,7 @@ public class EXCrushedBoneItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:excrushedbone")
 	public static final Item block = null;
 	public EXCrushedBoneItem(EnderXModElements instance) {
-		super(instance, 67);
+		super(instance, 62);
 	}
 
 	@Override

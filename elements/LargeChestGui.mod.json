@@ -1,0 +1,1542 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 512,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "player_inventory.png",
+          "name": "player_inventory.png",
+          "x": 250,
+          "y": -17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "inventory_large.png",
+          "name": "inventory_large.png",
+          "x": 172,
+          "y": -23
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 174,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 210,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 246,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "name": "Slot #3",
+          "x": 282,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 4,
+          "name": "Slot #4",
+          "x": 318,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 5,
+          "name": "Slot #5",
+          "x": 354,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 6,
+          "name": "Slot #6",
+          "x": 390,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 7,
+          "name": "Slot #7",
+          "x": 426,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 8,
+          "name": "Slot #8",
+          "x": 462,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 9,
+          "name": "Slot #9",
+          "x": 498,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 10,
+          "name": "Slot #10",
+          "x": 534,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 11,
+          "name": "Slot #11",
+          "x": 570,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 12,
+          "name": "Slot #12",
+          "x": 606,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 13,
+          "name": "Slot #13",
+          "x": 642,
+          "y": -16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 14,
+          "name": "Slot #14",
+          "x": 174,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 15,
+          "name": "Slot #15",
+          "x": 210,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 16,
+          "name": "Slot #16",
+          "x": 246,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 17,
+          "name": "Slot #17",
+          "x": 282,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 18,
+          "name": "Slot #18",
+          "x": 318,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 19,
+          "name": "Slot #19",
+          "x": 354,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 20,
+          "name": "Slot #20",
+          "x": 390,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 21,
+          "name": "Slot #21",
+          "x": 426,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 22,
+          "name": "Slot #22",
+          "x": 462,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 23,
+          "name": "Slot #23",
+          "x": 498,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 24,
+          "name": "Slot #24",
+          "x": 534,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 25,
+          "name": "Slot #25",
+          "x": 570,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 26,
+          "name": "Slot #26",
+          "x": 606,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 27,
+          "name": "Slot #27",
+          "x": 642,
+          "y": 20
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 28,
+          "name": "Slot #28",
+          "x": 174,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 29,
+          "name": "Slot #29",
+          "x": 210,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 30,
+          "name": "Slot #30",
+          "x": 246,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 31,
+          "name": "Slot #31",
+          "x": 282,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 32,
+          "name": "Slot #32",
+          "x": 318,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 33,
+          "name": "Slot #33",
+          "x": 354,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 34,
+          "name": "Slot #34",
+          "x": 390,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 35,
+          "name": "Slot #35",
+          "x": 426,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 36,
+          "name": "Slot #36",
+          "x": 462,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 37,
+          "name": "Slot #37",
+          "x": 498,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 38,
+          "name": "Slot #38",
+          "x": 534,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 39,
+          "name": "Slot #39",
+          "x": 570,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 40,
+          "name": "Slot #40",
+          "x": 606,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 41,
+          "name": "Slot #41",
+          "x": 642,
+          "y": 56
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 42,
+          "name": "Slot #42",
+          "x": 174,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 43,
+          "name": "Slot #43",
+          "x": 210,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 44,
+          "name": "Slot #44",
+          "x": 246,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 45,
+          "name": "Slot #45",
+          "x": 282,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 46,
+          "name": "Slot #46",
+          "x": 318,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 47,
+          "name": "Slot #47",
+          "x": 354,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 48,
+          "name": "Slot #48",
+          "x": 390,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 49,
+          "name": "Slot #49",
+          "x": 426,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 50,
+          "name": "Slot #50",
+          "x": 462,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 51,
+          "name": "Slot #51",
+          "x": 498,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 52,
+          "name": "Slot #52",
+          "x": 534,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 53,
+          "name": "Slot #53",
+          "x": 570,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 54,
+          "name": "Slot #54",
+          "x": 606,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 55,
+          "name": "Slot #55",
+          "x": 642,
+          "y": 92
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 56,
+          "name": "Slot #56",
+          "x": 174,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 57,
+          "name": "Slot #57",
+          "x": 210,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 58,
+          "name": "Slot #58",
+          "x": 246,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 59,
+          "name": "Slot #59",
+          "x": 282,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 60,
+          "name": "Slot #60",
+          "x": 318,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 61,
+          "name": "Slot #61",
+          "x": 354,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 62,
+          "name": "Slot #62",
+          "x": 390,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 63,
+          "name": "Slot #63",
+          "x": 426,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 64,
+          "name": "Slot #64",
+          "x": 462,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 65,
+          "name": "Slot #65",
+          "x": 498,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 66,
+          "name": "Slot #66",
+          "x": 534,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 67,
+          "name": "Slot #67",
+          "x": 570,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 68,
+          "name": "Slot #68",
+          "x": 606,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 69,
+          "name": "Slot #69",
+          "x": 642,
+          "y": 128
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 70,
+          "name": "Slot #70",
+          "x": 174,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 71,
+          "name": "Slot #71",
+          "x": 210,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 72,
+          "name": "Slot #72",
+          "x": 246,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 73,
+          "name": "Slot #73",
+          "x": 282,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 74,
+          "name": "Slot #74",
+          "x": 318,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 75,
+          "name": "Slot #75",
+          "x": 354,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 76,
+          "name": "Slot #76",
+          "x": 390,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 77,
+          "name": "Slot #77",
+          "x": 426,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 78,
+          "name": "Slot #78",
+          "x": 462,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 79,
+          "name": "Slot #79",
+          "x": 498,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 80,
+          "name": "Slot #80",
+          "x": 534,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 81,
+          "name": "Slot #81",
+          "x": 570,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 82,
+          "name": "Slot #82",
+          "x": 606,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 83,
+          "name": "Slot #83",
+          "x": 642,
+          "y": 164
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 84,
+          "name": "Slot #84",
+          "x": 174,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 85,
+          "name": "Slot #85",
+          "x": 210,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 86,
+          "name": "Slot #86",
+          "x": 246,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 87,
+          "name": "Slot #87",
+          "x": 282,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 88,
+          "name": "Slot #88",
+          "x": 318,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 89,
+          "name": "Slot #89",
+          "x": 354,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 90,
+          "name": "Slot #90",
+          "x": 390,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 91,
+          "name": "Slot #91",
+          "x": 426,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 92,
+          "name": "Slot #92",
+          "x": 462,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 93,
+          "name": "Slot #93",
+          "x": 498,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 94,
+          "name": "Slot #94",
+          "x": 534,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 95,
+          "name": "Slot #95",
+          "x": 570,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 96,
+          "name": "Slot #96",
+          "x": 606,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 97,
+          "name": "Slot #97",
+          "x": 642,
+          "y": 200
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 98,
+          "name": "Slot #98",
+          "x": 174,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 99,
+          "name": "Slot #99",
+          "x": 210,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 100,
+          "name": "Slot #100",
+          "x": 246,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 101,
+          "name": "Slot #101",
+          "x": 282,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 102,
+          "name": "Slot #102",
+          "x": 318,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 103,
+          "name": "Slot #103",
+          "x": 354,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 104,
+          "name": "Slot #104",
+          "x": 390,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 105,
+          "name": "Slot #105",
+          "x": 426,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 106,
+          "name": "Slot #106",
+          "x": 462,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 107,
+          "name": "Slot #107",
+          "x": 498,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 108,
+          "name": "Slot #108",
+          "x": 534,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 109,
+          "name": "Slot #109",
+          "x": 570,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 110,
+          "name": "Slot #110",
+          "x": 606,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 111,
+          "name": "Slot #111",
+          "x": 642,
+          "y": 236
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 112,
+          "name": "Slot #112",
+          "x": 174,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 113,
+          "name": "Slot #113",
+          "x": 210,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 114,
+          "name": "Slot #114",
+          "x": 246,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 115,
+          "name": "Slot #115",
+          "x": 282,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 116,
+          "name": "Slot #116",
+          "x": 318,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 117,
+          "name": "Slot #117",
+          "x": 354,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 118,
+          "name": "Slot #118",
+          "x": 390,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 119,
+          "name": "Slot #119",
+          "x": 426,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 120,
+          "name": "Slot #120",
+          "x": 462,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 121,
+          "name": "Slot #121",
+          "x": 498,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 122,
+          "name": "Slot #122",
+          "x": 534,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 123,
+          "name": "Slot #123",
+          "x": 570,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 124,
+          "name": "Slot #124",
+          "x": 606,
+          "y": 272
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 125,
+          "name": "Slot #125",
+          "x": 642,
+          "y": 272
+        }
+      }
+    ]
+  }
+}

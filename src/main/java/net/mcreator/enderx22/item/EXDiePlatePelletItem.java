@@ -15,7 +15,7 @@ public class EXDiePlatePelletItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exdieplatepellet")
 	public static final Item block = null;
 	public EXDiePlatePelletItem(EnderXModElements instance) {
-		super(instance, 72);
+		super(instance, 67);
 	}
 
 	@Override

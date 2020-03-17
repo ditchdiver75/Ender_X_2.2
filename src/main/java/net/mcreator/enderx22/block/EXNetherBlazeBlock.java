@@ -39,7 +39,7 @@ public class EXNetherBlazeBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherblaze")
 	public static final Block block = null;
 	public EXNetherBlazeBlock(EnderXModElements instance) {
-		super(instance, 24);
+		super(instance, 22);
 	}
 
 	@Override

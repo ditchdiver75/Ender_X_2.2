@@ -15,7 +15,7 @@ public class EXSulferItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exsulfer")
 	public static final Item block = null;
 	public EXSulferItem(EnderXModElements instance) {
-		super(instance, 87);
+		super(instance, 81);
 	}
 
 	@Override

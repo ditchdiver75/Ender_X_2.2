@@ -15,7 +15,7 @@ public class EXRubberTreeResinItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exrubbertreeresin")
 	public static final Item block = null;
 	public EXRubberTreeResinItem(EnderXModElements instance) {
-		super(instance, 84);
+		super(instance, 78);
 	}
 
 	@Override

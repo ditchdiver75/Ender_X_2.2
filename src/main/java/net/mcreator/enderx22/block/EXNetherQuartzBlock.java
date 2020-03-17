@@ -25,7 +25,7 @@ public class EXNetherQuartzBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherquartz")
 	public static final Block block = null;
 	public EXNetherQuartzBlock(EnderXModElements instance) {
-		super(instance, 38);
+		super(instance, 36);
 	}
 
 	@Override

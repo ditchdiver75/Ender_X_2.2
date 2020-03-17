@@ -15,7 +15,7 @@ public class EXCautionTapeItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:excautiontape")
 	public static final Item block = null;
 	public EXCautionTapeItem(EnderXModElements instance) {
-		super(instance, 50);
+		super(instance, 49);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class EXNetherSulferBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnethersulfer")
 	public static final Block block = null;
 	public EXNetherSulferBlock(EnderXModElements instance) {
-		super(instance, 42);
+		super(instance, 40);
 	}
 
 	@Override

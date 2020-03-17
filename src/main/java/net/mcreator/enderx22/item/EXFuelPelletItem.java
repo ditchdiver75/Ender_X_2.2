@@ -15,7 +15,7 @@ public class EXFuelPelletItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exfuelpellet")
 	public static final Item block = null;
 	public EXFuelPelletItem(EnderXModElements instance) {
-		super(instance, 75);
+		super(instance, 83);
 	}
 
 	@Override

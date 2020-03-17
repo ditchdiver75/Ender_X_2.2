@@ -15,7 +15,7 @@ public class EXBrickMoldItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exbrickmold")
 	public static final Item block = null;
 	public EXBrickMoldItem(EnderXModElements instance) {
-		super(instance, 47);
+		super(instance, 46);
 	}
 
 	@Override

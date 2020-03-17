@@ -25,7 +25,7 @@ public class EXNetherGoldBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnethergold")
 	public static final Block block = null;
 	public EXNetherGoldBlock(EnderXModElements instance) {
-		super(instance, 31);
+		super(instance, 29);
 	}
 
 	@Override

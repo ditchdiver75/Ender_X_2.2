@@ -15,7 +15,7 @@ public class EXDiePlateGemItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exdieplategem")
 	public static final Item block = null;
 	public EXDiePlateGemItem(EnderXModElements instance) {
-		super(instance, 71);
+		super(instance, 66);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ public class EXWaterItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exwater")
 	public static final Item block = null;
 	public EXWaterItem(EnderXModElements instance) {
-		super(instance, 90);
+		super(instance, 85);
 	}
 
 	@Override

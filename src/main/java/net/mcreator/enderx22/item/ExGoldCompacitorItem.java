@@ -15,7 +15,7 @@ public class ExGoldCompacitorItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exgoldcompacitor")
 	public static final Item block = null;
 	public ExGoldCompacitorItem(EnderXModElements instance) {
-		super(instance, 54);
+		super(instance, 52);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class EXNetherEnderBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherender")
 	public static final Block block = null;
 	public EXNetherEnderBlock(EnderXModElements instance) {
-		super(instance, 30);
+		super(instance, 28);
 	}
 
 	@Override

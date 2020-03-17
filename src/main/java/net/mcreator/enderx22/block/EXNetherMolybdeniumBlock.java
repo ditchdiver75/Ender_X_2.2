@@ -25,7 +25,7 @@ public class EXNetherMolybdeniumBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnethermolybdenium")
 	public static final Block block = null;
 	public EXNetherMolybdeniumBlock(EnderXModElements instance) {
-		super(instance, 36);
+		super(instance, 34);
 	}
 
 	@Override

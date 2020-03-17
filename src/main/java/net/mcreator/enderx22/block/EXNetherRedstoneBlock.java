@@ -25,7 +25,7 @@ public class EXNetherRedstoneBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherredstone")
 	public static final Block block = null;
 	public EXNetherRedstoneBlock(EnderXModElements instance) {
-		super(instance, 39);
+		super(instance, 37);
 	}
 
 	@Override

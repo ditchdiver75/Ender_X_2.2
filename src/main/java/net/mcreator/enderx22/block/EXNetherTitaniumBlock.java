@@ -25,7 +25,7 @@ public class EXNetherTitaniumBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnethertitanium")
 	public static final Block block = null;
 	public EXNetherTitaniumBlock(EnderXModElements instance) {
-		super(instance, 43);
+		super(instance, 41);
 	}
 
 	@Override

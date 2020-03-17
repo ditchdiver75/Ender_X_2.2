@@ -25,7 +25,7 @@ public class EXNetherIronBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetheriron")
 	public static final Block block = null;
 	public EXNetherIronBlock(EnderXModElements instance) {
-		super(instance, 32);
+		super(instance, 30);
 	}
 
 	@Override

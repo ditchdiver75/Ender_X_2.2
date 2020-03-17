@@ -25,7 +25,7 @@ public class EXNetherLapisBlock extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exnetherlapis")
 	public static final Block block = null;
 	public EXNetherLapisBlock(EnderXModElements instance) {
-		super(instance, 33);
+		super(instance, 31);
 	}
 
 	@Override

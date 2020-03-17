@@ -15,7 +15,7 @@ public class EXBasaltStickItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exbasaltstick")
 	public static final Item block = null;
 	public EXBasaltStickItem(EnderXModElements instance) {
-		super(instance, 46);
+		super(instance, 44);
 	}
 
 	@Override

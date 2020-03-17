@@ -3,13 +3,13 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "backpack",
+    "texture": "ingot_nickle",
     "customModelName": "Normal",
-    "name": "EX Backpack",
+    "name": "Ingot Nickle",
     "creativeTab": {
       "value": "CUSTOM:EnderXItems"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,

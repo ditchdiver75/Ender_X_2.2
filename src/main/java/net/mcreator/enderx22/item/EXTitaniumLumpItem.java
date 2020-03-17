@@ -15,7 +15,7 @@ public class EXTitaniumLumpItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:extitaniumlump")
 	public static final Item block = null;
 	public EXTitaniumLumpItem(EnderXModElements instance) {
-		super(instance, 64);
+		super(instance, 61);
 	}
 
 	@Override

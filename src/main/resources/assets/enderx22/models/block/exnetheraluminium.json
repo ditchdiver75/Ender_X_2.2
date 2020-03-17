@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/ether_aluminium",
+    "up": "enderx22:blocks/ether_aluminium",
+    "north": "enderx22:blocks/ether_aluminium",
+    "east": "enderx22:blocks/ether_aluminium",
+    "south": "enderx22:blocks/ether_aluminium",
+    "west": "enderx22:blocks/ether_aluminium",
+    "particle": "enderx22:blocks/ether_aluminium"
+  }
+}

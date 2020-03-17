@@ -15,7 +15,7 @@ public class EXLavaItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exlava")
 	public static final Item block = null;
 	public EXLavaItem(EnderXModElements instance) {
-		super(instance, 91);
+		super(instance, 86);
 	}
 
 	@Override

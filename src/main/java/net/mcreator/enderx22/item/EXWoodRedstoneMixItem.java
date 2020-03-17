@@ -15,7 +15,7 @@ public class EXWoodRedstoneMixItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exwoodredstonemix")
 	public static final Item block = null;
 	public EXWoodRedstoneMixItem(EnderXModElements instance) {
-		super(instance, 88);
+		super(instance, 82);
 	}
 
 	@Override

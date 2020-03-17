@@ -15,7 +15,7 @@ public class EXStdMachineCaseItem extends EnderXModElements.ModElement {
 	@ObjectHolder("enderx22:exstdmachinecase")
 	public static final Item block = null;
 	public EXStdMachineCaseItem(EnderXModElements instance) {
-		super(instance, 86);
+		super(instance, 80);
 	}
 
 	@Override
