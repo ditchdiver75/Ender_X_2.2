@@ -1,0 +1,30 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "enderx22:explatechromoly"
+    },
+    "3": {
+      "item": "enderx22:excoatedredstonealloywire"
+    },
+    "4": {
+      "item": "enderx22:exgoldcompacitor"
+    },
+    "5": {
+      "item": "enderx22:excoatedredstonealloywire"
+    },
+    "7": {
+      "item": "enderx22:explatechromoly"
+    }
+  },
+  "result": {
+    "item": "enderx22:exchromolycompacitor",
+    "count": 1
+  }
+}

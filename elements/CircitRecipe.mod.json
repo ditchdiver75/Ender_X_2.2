@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 4,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXCoatedRedstoneAlloyWire"
+      },
+      {
+        "value": "CUSTOM:EXCoatedCopperWire"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXCoatedCopperWire"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXCircitWiring"
+    },
+    "name": "circitrecipe",
+    "namespace": "mod"
+  }
+}

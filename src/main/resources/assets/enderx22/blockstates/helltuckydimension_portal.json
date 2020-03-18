@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "enderx22:block/helltuckydimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "enderx22:block/helltuckydimension_portal_ns"
+    }
+  }
+}

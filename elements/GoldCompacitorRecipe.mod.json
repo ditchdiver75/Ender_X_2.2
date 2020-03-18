@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXPlateGold"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXCoatedGoldWire"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXPlateGold"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ExGoldCompacitor"
+    },
+    "name": "goldcompacitorrecipe",
+    "namespace": "mod"
+  }
+}

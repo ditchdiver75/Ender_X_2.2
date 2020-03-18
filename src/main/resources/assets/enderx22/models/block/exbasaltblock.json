@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/rough_basalt",
+    "up": "enderx22:blocks/rough_basalt",
+    "north": "enderx22:blocks/rough_basalt",
+    "east": "enderx22:blocks/rough_basalt",
+    "south": "enderx22:blocks/rough_basalt",
+    "west": "enderx22:blocks/rough_basalt",
+    "particle": "enderx22:blocks/rough_basalt"
+  }
+}

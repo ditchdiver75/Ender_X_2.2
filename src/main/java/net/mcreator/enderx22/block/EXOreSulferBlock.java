@@ -28,6 +28,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.enderx22.itemgroup.EnderXOreItemGroup;
+import net.mcreator.enderx22.item.EXSulferItem;
 import net.mcreator.enderx22.EnderXModElements;
 
 import java.util.Random;
@@ -64,7 +65,7 @@ public class EXOreSulferBlock extends EnderXModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, 1));
+			return Collections.singletonList(new ItemStack(EXSulferItem.block, (int) (3)));
 		}
 	}
 	@Override

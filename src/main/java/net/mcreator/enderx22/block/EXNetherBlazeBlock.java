@@ -23,10 +23,10 @@ import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
-import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
+import net.mcreator.enderx22.world.dimension.HelltuckyDimensionDimension;
 import net.mcreator.enderx22.itemgroup.EnderXOreItemGroup;
 import net.mcreator.enderx22.EnderXModElements;
 
@@ -75,7 +75,7 @@ public class EXNetherBlazeBlock extends EnderXModElements.ModElement {
 				public boolean place(IWorld world, ChunkGenerator generator, Random rand, BlockPos pos, OreFeatureConfig config) {
 					DimensionType dimensionType = world.getDimension().getType();
 					boolean dimensionCriteria = false;
-					if (dimensionType == DimensionType.THE_NETHER)
+					if (dimensionType == HelltuckyDimensionDimension.type)
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
@@ -83,7 +83,7 @@ public class EXNetherBlazeBlock extends EnderXModElements.ModElement {
 				}
 			}, new OreFeatureConfig(OreFeatureConfig.FillerBlockType.create("exnetherblaze", "exnetherblaze", blockAt -> {
 				boolean blockCriteria = false;
-				if (blockAt.getBlock() == Blocks.STONE.getDefaultState().getBlock())
+				if (blockAt.getBlock() == EXNetherackBlock.block.getDefaultState().getBlock())
 					blockCriteria = true;
 				return blockCriteria;
 			}), block.getDefaultState(), 12), Placement.COUNT_RANGE, new CountRangeConfig(8, 0, 0, 256)));

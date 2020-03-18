@@ -1,0 +1,42 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "enderx22:explatechromoly"
+    },
+    "2": {
+      "item": "enderx22:exchromolycompacitor"
+    },
+    "3": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "4": {
+      "item": "enderx22:exstdmachinecase"
+    },
+    "5": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "6": {
+      "item": "enderx22:exchromolycompacitor"
+    },
+    "7": {
+      "item": "enderx22:explatechromoly"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "enderx22:exmachinecase",
+    "count": 1
+  }
+}

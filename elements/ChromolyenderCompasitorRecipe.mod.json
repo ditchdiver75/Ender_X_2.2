@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IngotGold"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromiumender"
+      },
+      {
+        "value": "CUSTOM:IngotChromolyender"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXChromolyCompacitor"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:IngotChromolyender"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromiumender"
+      },
+      {
+        "value": "CUSTOM:IngotGold"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXChroiumenderCompacitor"
+    },
+    "name": "chromolyendercompasitorrecipe",
+    "namespace": "mod"
+  }
+}

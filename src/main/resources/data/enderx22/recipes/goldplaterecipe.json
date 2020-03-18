@@ -1,0 +1,29 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "34 "
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exhammer"
+    },
+    "1": {
+      "item": "enderx22:ingotgold"
+    },
+    "2": {
+      "item": "enderx22:ingotgold"
+    },
+    "3": {
+      "item": "enderx22:ingotgold"
+    },
+    "4": {
+      "item": "enderx22:ingotgold"
+    }
+  },
+  "result": {
+    "item": "enderx22:explategold",
+    "count": 1
+  }
+}

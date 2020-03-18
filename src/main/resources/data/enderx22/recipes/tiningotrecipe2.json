@@ -1,0 +1,11 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "enderx22:exnethertin"
+  },
+  "result": {
+    "item": "enderx22:ingottin"
+  }
+}

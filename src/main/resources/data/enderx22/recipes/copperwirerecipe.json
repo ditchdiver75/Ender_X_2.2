@@ -1,0 +1,16 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderx22:exwirecutter"
+    },
+    {
+      "item": "enderx22:explatecopper"
+    }
+  ],
+  "result": {
+    "item": "enderx22:exwirecopper",
+    "count": 15
+  }
+}

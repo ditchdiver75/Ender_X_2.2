@@ -1,0 +1,16 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderx22:exportalsepter"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    }
+  ],
+  "result": {
+    "item": "enderx22:helloromasepter",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "2": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "3": {
+      "item": "enderx22:excoatedredstonealloywire"
+    },
+    "4": {
+      "item": "enderx22:excoatedcopperwire"
+    },
+    "6": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "7": {
+      "item": "enderx22:excoatedcopperwire"
+    }
+  },
+  "result": {
+    "item": "enderx22:excircitwiring",
+    "count": 4
+  }
+}

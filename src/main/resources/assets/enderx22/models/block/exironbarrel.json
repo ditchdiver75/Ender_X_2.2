@@ -1,9 +1,0 @@
-{
-  "parent": "enderx22:custom/barrel",
-  "textures": {
-    "all": "enderx22:blocks/barrel",
-    "particle": "enderx22:blocks/barrel",
-    "0": "enderx22:blocks/barrel_planks",
-    "1": "enderx22:blocks/iron"
-  }
-}

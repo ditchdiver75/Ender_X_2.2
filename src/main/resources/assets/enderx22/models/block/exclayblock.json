@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/clay",
+    "up": "enderx22:blocks/clay",
+    "north": "enderx22:blocks/clay",
+    "east": "enderx22:blocks/clay",
+    "south": "enderx22:blocks/clay",
+    "west": "enderx22:blocks/clay",
+    "particle": "enderx22:blocks/clay"
+  }
+}

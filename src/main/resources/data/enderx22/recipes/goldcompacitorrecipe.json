@@ -1,0 +1,30 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "enderx22:explategold"
+    },
+    "3": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "4": {
+      "item": "enderx22:excoatedgoldwire"
+    },
+    "5": {
+      "item": "enderx22:exredstoneconductor"
+    },
+    "7": {
+      "item": "enderx22:explategold"
+    }
+  },
+  "result": {
+    "item": "enderx22:exgoldcompacitor",
+    "count": 1
+  }
+}

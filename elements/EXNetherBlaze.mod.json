@@ -74,12 +74,12 @@
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "spawnWorldTypes": [
-      "Nether"
+      "CUSTOM:HelltuckyDimension"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "CUSTOM:EXNetherack"
       }
     ],
     "frequencyPerChunks": 8,

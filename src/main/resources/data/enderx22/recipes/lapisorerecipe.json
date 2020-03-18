@@ -1,0 +1,11 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "enderx22:exnetherlapis"
+  },
+  "result": {
+    "item": "minecraft:lapis_lazuli"
+  }
+}

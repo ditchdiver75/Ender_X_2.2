@@ -1,0 +1,18 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 2.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:EXNetherGold"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:IngotGold"
+    },
+    "name": "goldingotrecipe2",
+    "namespace": "mod"
+  }
+}

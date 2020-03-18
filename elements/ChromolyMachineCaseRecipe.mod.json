@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EXPlateChromoly"
+      },
+      {
+        "value": "CUSTOM:EXChromolyCompacitor"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromoly"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXMachineCase"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromoly"
+      },
+      {
+        "value": "CUSTOM:EXChromolyCompacitor"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromoly"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXChromolyMachineBlock"
+    },
+    "name": "chromolymachinecaserecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 3,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EXPlateChromiumender"
+      },
+      {
+        "value": "CUSTOM:EXChroiumenderCompacitor"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromiumender"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXChromolyMachineBlock"
+      },
+      {
+        "value": "CUSTOM:EXRedstoneConductor"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromiumender"
+      },
+      {
+        "value": "CUSTOM:EXChroiumenderCompacitor"
+      },
+      {
+        "value": "CUSTOM:EXPlateChromiumender"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXChromolyenderMachineBlock"
+    },
+    "name": "chromolyendermachinecaserecipe",
+    "namespace": "mod"
+  }
+}

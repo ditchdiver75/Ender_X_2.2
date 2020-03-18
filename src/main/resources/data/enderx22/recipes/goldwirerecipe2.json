@@ -1,0 +1,19 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exwiregold"
+    },
+    "1": {
+      "item": "enderx22:exrubberball"
+    }
+  },
+  "result": {
+    "item": "enderx22:excoatedgoldwire",
+    "count": 1
+  }
+}

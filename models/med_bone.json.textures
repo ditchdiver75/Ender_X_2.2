@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bone_texture",
+        "1": "bone_topbottom_texture"
+      },
+      "name": "default"
+    }
+  }
+}

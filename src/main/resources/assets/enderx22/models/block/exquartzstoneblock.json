@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/quartz_block",
+    "up": "enderx22:blocks/quartz_block",
+    "north": "enderx22:blocks/quartz_block",
+    "east": "enderx22:blocks/quartz_block",
+    "south": "enderx22:blocks/quartz_block",
+    "west": "enderx22:blocks/quartz_block",
+    "particle": "enderx22:blocks/quartz_block"
+  }
+}

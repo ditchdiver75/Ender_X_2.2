@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IngotGold"
+      },
+      {
+        "value": "CUSTOM:EXCoatedRedstoneAlloyWire"
+      },
+      {
+        "value": "CUSTOM:IngotIron"
+      },
+      {
+        "value": "CUSTOM:EXCoatedRedstoneAlloyWire"
+      },
+      {
+        "value": "CUSTOM:IngotGold"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.REDSTONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXRedstoneConductor"
+    },
+    "name": "redstoneconductorrecipe",
+    "namespace": "mod"
+  }
+}
