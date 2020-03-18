@@ -1,1 +1,11 @@
-{}
+{
+  "grinder": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "enderx22:rockcrushing",
+        "stream": false
+      }
+    ]
+  }
+}

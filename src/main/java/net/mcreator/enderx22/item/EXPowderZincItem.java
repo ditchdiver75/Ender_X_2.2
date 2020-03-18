@@ -11,11 +11,11 @@ import net.mcreator.enderx22.itemgroup.EnderXItemsItemGroup;
 import net.mcreator.enderx22.EnderXModElements;
 
 @EnderXModElements.ModElement.Tag
-public class HellORomaSepterItem extends EnderXModElements.ModElement {
-	@ObjectHolder("enderx22:helloromasepter")
+public class EXPowderZincItem extends EnderXModElements.ModElement {
+	@ObjectHolder("enderx22:expowderzinc")
 	public static final Item block = null;
-	public HellORomaSepterItem(EnderXModElements instance) {
-		super(instance, 165);
+	public EXPowderZincItem(EnderXModElements instance) {
+		super(instance, 233);
 	}
 
 	@Override
@@ -24,8 +24,8 @@ public class HellORomaSepterItem extends EnderXModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(EnderXItemsItemGroup.tab).maxStackSize(1));
-			setRegistryName("helloromasepter");
+			super(new Item.Properties().group(EnderXItemsItemGroup.tab).maxStackSize(64));
+			setRegistryName("expowderzinc");
 		}
 
 		@Override

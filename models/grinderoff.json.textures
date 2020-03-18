@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "side_plate",
+        "1": "autiontripes",
+        "2": "grinder_face",
+        "missing": "grey"
+      },
+      "name": "default"
+    }
+  }
+}

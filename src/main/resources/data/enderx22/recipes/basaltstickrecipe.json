@@ -1,0 +1,16 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderx22:exbasaltblock"
+    },
+    {
+      "item": "enderx22:exbasaltblock"
+    }
+  ],
+  "result": {
+    "item": "enderx22:exbasaltstick",
+    "count": 6
+  }
+}

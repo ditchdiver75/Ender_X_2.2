@@ -3,13 +3,13 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "hell_o_roma",
+    "texture": "powder_chromium",
     "customModelName": "Normal",
-    "name": "Hell O Roma Septer",
+    "name": "Powder Chromium",
     "creativeTab": {
       "value": "CUSTOM:EnderXItems"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,

@@ -1,0 +1,30 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:ingotiron"
+    },
+    "2": {
+      "item": "enderx22:ingotiron"
+    },
+    "4": {
+      "item": "enderx22:ingotiron"
+    },
+    "6": {
+      "item": "enderx22:explateiron"
+    },
+    "8": {
+      "item": "enderx22:explateiron"
+    }
+  },
+  "result": {
+    "item": "enderx22:exwirecutter",
+    "count": 1
+  }
+}

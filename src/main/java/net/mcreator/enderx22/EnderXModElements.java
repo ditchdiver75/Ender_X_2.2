@@ -48,6 +48,7 @@ public class EnderXModElements {
 	public final List<Supplier<EntityType<?>>> entities = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public EnderXModElements() {
+		sounds.put(new ResourceLocation("enderx22", "grinder"), new net.minecraft.util.SoundEvent(new ResourceLocation("enderx22", "grinder")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("enderx22").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

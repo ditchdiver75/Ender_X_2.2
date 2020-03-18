@@ -1,16 +1,19 @@
 {
   "group": "enderx22",
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
       "item": "enderx22:exportalsepter"
     },
-    {
+    "1": {
       "item": "minecraft:flint_and_steel"
     }
-  ],
+  },
   "result": {
-    "item": "enderx22:helloromasepter",
+    "item": "enderx22:helltuckydimension",
     "count": 1
   }
 }
