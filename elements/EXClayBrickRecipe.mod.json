@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 4,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EXBrickMold"
+      },
+      {
+        "value": "CUSTOM:EXBallofClay"
+      },
+      {
+        "value": "CUSTOM:EXBallofClay"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXBallofClay"
+      },
+      {
+        "value": "CUSTOM:EXBallofClay"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EXClayBrick"
+    },
+    "name": "exclaybrickrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exhammer"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "enderx22:excrushedbone",
+    "count": 1
+  }
+}

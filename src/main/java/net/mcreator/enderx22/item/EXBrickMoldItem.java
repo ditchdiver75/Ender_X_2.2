@@ -29,6 +29,16 @@ public class EXBrickMoldItem extends EnderXModElements.ModElement {
 		}
 
 		@Override
+		public boolean hasContainerItem() {
+			return true;
+		}
+
+		@Override
+		public ItemStack getContainerItem(ItemStack itemStack) {
+			return new ItemStack(this);
+		}
+
+		@Override
 		public int getItemEnchantability() {
 			return 0;
 		}

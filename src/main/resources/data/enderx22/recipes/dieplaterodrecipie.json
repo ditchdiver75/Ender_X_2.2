@@ -1,0 +1,27 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "3": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "5": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "7": {
+      "item": "enderx22:extitaniumingot"
+    }
+  },
+  "result": {
+    "item": "enderx22:exdieplaterod",
+    "count": 1
+  }
+}

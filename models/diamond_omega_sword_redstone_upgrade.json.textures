@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "diamond_texture",
+        "1": "grey",
+        "2": "leather",
+        "3": "redstone_upgrade"
+      },
+      "name": "default"
+    }
+  }
+}

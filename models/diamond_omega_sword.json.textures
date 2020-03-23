@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "diamond_texture",
+        "1": "grey",
+        "2": "leather"
+      },
+      "name": "default"
+    }
+  }
+}

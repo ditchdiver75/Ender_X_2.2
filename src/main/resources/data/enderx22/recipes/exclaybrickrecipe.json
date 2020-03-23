@@ -1,0 +1,29 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exbrickmold"
+    },
+    "1": {
+      "item": "enderx22:exballofclay"
+    },
+    "2": {
+      "item": "enderx22:exballofclay"
+    },
+    "4": {
+      "item": "enderx22:exballofclay"
+    },
+    "5": {
+      "item": "enderx22:exballofclay"
+    }
+  },
+  "result": {
+    "item": "enderx22:exclaybrick",
+    "count": 4
+  }
+}

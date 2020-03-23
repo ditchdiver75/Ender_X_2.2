@@ -1,0 +1,29 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:ingotiron"
+    },
+    "2": {
+      "item": "enderx22:ingotiron"
+    },
+    "3": {
+      "item": "enderx22:ingotiron"
+    },
+    "4": {
+      "item": "enderx22:ingotiron"
+    },
+    "5": {
+      "item": "enderx22:ingotiron"
+    }
+  },
+  "result": {
+    "item": "enderx22:exbrickmold",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grey",
+        "1": "roombrick",
+        "2": "grunge",
+        "3": "iamondlate"
+      },
+      "name": "default"
+    }
+  }
+}
