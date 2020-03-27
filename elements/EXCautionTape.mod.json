@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "caution_tape",
+    "texture": "1caution_tape",
     "customModelName": "Normal",
     "name": "EX Caution Tape",
     "creativeTab": {

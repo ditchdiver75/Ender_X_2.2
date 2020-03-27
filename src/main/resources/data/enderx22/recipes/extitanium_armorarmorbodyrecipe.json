@@ -1,0 +1,39 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "2": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "3": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "4": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "5": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "6": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "7": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "8": {
+      "item": "enderx22:extitaniumingot"
+    }
+  },
+  "result": {
+    "item": "enderx22:extitanium_armorarmorbody",
+    "count": 1
+  }
+}

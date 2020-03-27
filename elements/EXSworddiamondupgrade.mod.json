@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sword_diamond",
+    "customModelName": "Normal",
+    "name": "EX Sworddiamondupgrade",
+    "creativeTab": {
+      "value": "CUSTOM:EnderXItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 12,
+    "efficiency": 18.0,
+    "attackSpeed": 3.0,
+    "enchantability": 80,
+    "damageVsEntity": 15.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EXTitaniumIngot"
+      }
+    ]
+  }
+}

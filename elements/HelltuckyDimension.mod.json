@@ -16,7 +16,7 @@
     "igniterTab": {
       "value": "CUSTOM:EnderXItems"
     },
-    "texture": "hell_o_roma",
+    "texture": "portal_septer",
     "portalTexture": "liquid_metal_red",
     "enablePortal": true,
     "biomesInDimension": [

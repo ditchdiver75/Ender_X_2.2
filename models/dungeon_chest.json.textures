@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "creeperface_latch",
+        "1": "latch",
+        "2": "chest_body",
+        "3": "upside_down_body",
+        "4": "body_top",
+        "missing": "grey"
+      },
+      "name": "default"
+    }
+  }
+}

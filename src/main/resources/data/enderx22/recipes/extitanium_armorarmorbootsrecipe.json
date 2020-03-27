@@ -1,0 +1,26 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "2": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "3": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "5": {
+      "item": "enderx22:extitaniumingot"
+    }
+  },
+  "result": {
+    "item": "enderx22:extitanium_armorarmorboots",
+    "count": 1
+  }
+}

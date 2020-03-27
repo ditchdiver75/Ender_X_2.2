@@ -1,0 +1,22 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderx22:extitanium_toolssword"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "minecraft:diamond_block"
+    },
+    {
+      "item": "enderx22:extitaniumingot"
+    }
+  ],
+  "result": {
+    "item": "enderx22:exsworddiamondupgrade",
+    "count": 1
+  }
+}

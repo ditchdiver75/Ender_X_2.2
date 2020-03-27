@@ -1,0 +1,26 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exsworddiamondupgrade"
+    },
+    "1": {
+      "item": "enderx22:extitaniumingot"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    },
+    "3": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "enderx22:exsorddiamondredstoneupgrade",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "1sword_diamond_redstone_plate_upgrade",
+    "customModelName": "Normal",
+    "name": "EX Sworddiamondredstoneplateupgrade",
+    "creativeTab": {
+      "value": "CUSTOM:EnderXItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 16,
+    "efficiency": 24.0,
+    "attackSpeed": 5.0,
+    "enchantability": 90,
+    "damageVsEntity": 21.0,
+    "usageCount": 9500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EXTitaniumIngot"
+      }
+    ]
+  }
+}

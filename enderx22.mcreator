@@ -1944,6 +1944,182 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsPickaxe",
+      "type": "tool",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsAxe",
+      "type": "tool",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsSword",
+      "type": "tool",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsShovel",
+      "type": "tool",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsHoe",
+      "type": "tool",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ArmorArmor",
+      "type": "armor",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXTitanium_ArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSworddiamondupgrade",
+      "type": "tool",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSorddiamondredstoneupgrade",
+      "type": "tool",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSworddiamondredstoneplateupgrade",
+      "type": "tool",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSwordUpgrade1Recipe",
+      "type": "recipe",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSwordUpgrade2Recipe",
+      "type": "recipe",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXSwordUpgrade3Recipe",
+      "type": "recipe",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EXBlockofTitanium",
+      "type": "block",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -1956,7 +2132,9 @@
   ],
   "language_map": {
     "en_us": {
+      "item.enderx22.extitanium_armorarmorboots": "EXTitanium_Armor Boots",
       "item.enderx22.exhammer": "Hammer",
+      "item.enderx22.exsworddiamondupgrade": "EX Sworddiamondupgrade",
       "block.enderx22.exnethernickle": "EX Nether Nickle",
       "item.enderx22.exdieplateblock": "EX Die Plate Block",
       "block.enderx22.exorezinc": "EX Ore Zinc",
@@ -1967,6 +2145,7 @@
       "item.enderx22.expowderender": "Powder Ender",
       "block.enderx22.exorequartz": "EX Ore Quartz",
       "block.enderx22.exnetherzinc": "EX Nether Zinc",
+      "item.enderx22.extitanium_toolshoe": "EXTitanium_Tools Hoe",
       "item.enderx22.excoatedredstonealloywire": "Coated Redstone Alloy Wire",
       "item.enderx22.exwiregold": "Wire Gold",
       "item.enderx22.exdieplategem": "EX Die Plate Gem",
@@ -1984,6 +2163,7 @@
       "block.enderx22.exoreslimmy": "EX Ore Slimmy",
       "item.enderx22.exwirecopper": "Wire Copper",
       "item.enderx22.exmachinecase": "EX Machine Case",
+      "item.enderx22.extitanium_armorarmorlegs": "EXTitanium_Armor Leggings",
       "itemGroup.tabenderxore": "Ender X Ore",
       "item.enderx22.exrubbertreeresin": "EX Rubber Tree Resin",
       "block.enderx22.exoretin": "EX Ore Tin",
@@ -1996,6 +2176,7 @@
       "item.enderx22.excarbonfibersheet": "EX Carbon Fiber Sheet",
       "item.enderx22.explasticsheets": "EX Plastic Sheets",
       "item.enderx22.exchromolycompacitor": "EX Chromoly Compacitor",
+      "item.enderx22.extitanium_toolsaxe": "EXTitanium_Tools Axe",
       "block.enderx22.exoreredstone": "EX Ore Redstone",
       "item.enderx22.exfuelpellet": "EX Fuel Pellet",
       "item.enderx22.excircitwiring": "EX Circit Wiring",
@@ -2003,6 +2184,7 @@
       "block.enderx22.exnethertin": "EX Nether Tin",
       "item.enderx22.extitaniumrod": "EX Titanium Rod",
       "block.enderx22.exorechromium": "EX Ore Chromium",
+      "block.enderx22.exblockoftitanium": "EX Blockof Titanium",
       "block.enderx22.exnetheriron": "EX Nether Iron",
       "block.enderx22.exnetherchromium": "EX Nether Chromium",
       "block.enderx22.exnethermagnesium": "EX Nether Magnesium",
@@ -2030,6 +2212,7 @@
       "biome.enderx22.helltucky": "Helltucky",
       "item.enderx22.exdieplatemetalplates": "EX Die Plate Metal Plates",
       "item.enderx22.explatetin": "Plate Tin",
+      "item.enderx22.extitanium_toolsshovel": "EXTitanium_Tools Shovel",
       "item.enderx22.ingotchromoly": "Ingot Chromoly",
       "item.enderx22.expowdercoal": "Powder Coal",
       "item.enderx22.explatechromium": "Plate Chromium",
@@ -2046,6 +2229,7 @@
       "item.enderx22.ingotlead": "Ingot Lead",
       "item.enderx22.helltuckydimension": "Helltucky Dimension Portal Igniter",
       "block.enderx22.exnethersilver": "EX Nether Silver",
+      "item.enderx22.exsworddiamondredstoneplateupgrade": "EX Sworddiamondredstoneplateupgrade",
       "item.enderx22.expowdercopper": "Powder Copper",
       "item.enderx22.exmachineframe": "EX Machine Frame",
       "item.enderx22.exwoodredstonemix": "EX Wood Redstone Mix",
@@ -2067,6 +2251,7 @@
       "block.enderx22.exnethercopper": "EX Nether Copper",
       "item.enderx22.expowdernickle": "Powder Nickle",
       "item.enderx22.exsilicon": "EX Silicon",
+      "item.enderx22.extitanium_toolssword": "EXTitanium_Tools Sword",
       "block.enderx22.exsandblock": "EX Sand Block",
       "item.enderx22.ingotnickle": "Ingot Nickle",
       "item.enderx22.explategold": "Plate Gold",
@@ -2076,17 +2261,21 @@
       "item.enderx22.exdieplaterod": "EX Die Plate Rod",
       "item.enderx22.excrushedbone": "EX Crushed Bone",
       "item.enderx22.exglue": "EX Glue",
+      "item.enderx22.extitanium_armorarmorbody": "EXTitanium_Armor Chestplate",
       "item.enderx22.exrubberball": "EX Rubberball",
       "block.enderx22.exoretitanium": "EX Ore Titanium",
       "block.enderx22.exnethertitanium": "EX Nether Titanium",
+      "item.enderx22.extitanium_armorarmorhelmet": "EXTitanium_Armor Helmet",
       "item.enderx22.exchromolymachineblock": "EX Chromoly Machine Block",
       "item.enderx22.exbackpackblue": "EX Backpack Blue",
       "block.enderx22.exnethergold": "EX Nether Gold",
+      "item.enderx22.extitanium_toolspickaxe": "EXTitanium_Tools Pickaxe",
       "item.enderx22.exbackpackblack": "EX Backpack Black",
       "item.enderx22.excoatedgoldwire": "Coated Gold Wire",
       "block.enderx22.exnetherlead": "EX Nether Lead",
       "item.enderx22.exredstoneconductor": "Redstone Conductor",
       "item.enderx22.exwireredstonealloy": "Wire Redstone Alloy",
+      "item.enderx22.exsorddiamondredstoneupgrade": "EX Sorddiamondredstoneupgrade",
       "item.enderx22.exwoodfibers": "EX Wood Fibers",
       "block.enderx22.exorelead": "EX Ore Lead",
       "block.enderx22.exnethersulfer": "EX Nether Sulfer",
@@ -2151,5 +2340,5 @@
     "modElementsPackage": "net.mcreator.enderx22",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000212518
+  "mcreatorVersion": 202000213314
 }

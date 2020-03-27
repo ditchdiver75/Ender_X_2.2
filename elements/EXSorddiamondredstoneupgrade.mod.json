@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "1sword_diamond_redstone_upgrade_",
+    "customModelName": "Normal",
+    "name": "EX Sorddiamondredstoneupgrade",
+    "creativeTab": {
+      "value": "CUSTOM:EnderXItems"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 14,
+    "efficiency": 21.0,
+    "attackSpeed": 4.0,
+    "enchantability": 85,
+    "damageVsEntity": 18.0,
+    "usageCount": 3500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EXTitaniumIngot"
+      }
+    ]
+  }
+}
