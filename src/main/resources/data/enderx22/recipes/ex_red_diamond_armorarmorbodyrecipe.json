@@ -1,0 +1,39 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exreddiamond"
+    },
+    "2": {
+      "item": "enderx22:exreddiamond"
+    },
+    "3": {
+      "item": "enderx22:exreddiamond"
+    },
+    "4": {
+      "item": "enderx22:exreddiamond"
+    },
+    "5": {
+      "item": "enderx22:exreddiamond"
+    },
+    "6": {
+      "item": "enderx22:exreddiamond"
+    },
+    "7": {
+      "item": "enderx22:exreddiamond"
+    },
+    "8": {
+      "item": "enderx22:exreddiamond"
+    }
+  },
+  "result": {
+    "item": "enderx22:ex_red_diamond_armorarmorbody",
+    "count": 1
+  }
+}

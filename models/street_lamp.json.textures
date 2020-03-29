@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grey",
+        "1": "tile_squares",
+        "2": "liquid_metal_red"
+      },
+      "name": "default"
+    }
+  }
+}

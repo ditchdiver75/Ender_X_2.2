@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "red_diamond",
+    "customModelName": "Normal",
+    "name": "EX Red Diamond",
+    "creativeTab": {
+      "value": "CUSTOM:EnderXItems"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Rarest Gem on the Planet. Who knows where it can be found?"
+    ],
+    "hasGlow": false
+  }
+}

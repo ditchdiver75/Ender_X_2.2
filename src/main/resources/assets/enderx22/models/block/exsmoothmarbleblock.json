@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/smooth_marble",
+    "up": "enderx22:blocks/smooth_marble",
+    "north": "enderx22:blocks/smooth_marble",
+    "east": "enderx22:blocks/smooth_marble",
+    "south": "enderx22:blocks/smooth_marble",
+    "west": "enderx22:blocks/smooth_marble",
+    "particle": "enderx22:blocks/smooth_marble"
+  }
+}

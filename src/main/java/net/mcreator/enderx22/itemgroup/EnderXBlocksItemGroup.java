@@ -7,7 +7,7 @@ import net.minecraftforge.api.distmarker.Dist;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 
-import net.mcreator.enderx22.block.EXNetherackBlock;
+import net.mcreator.enderx22.block.EXMarbleBrick2Block;
 import net.mcreator.enderx22.EnderXModElements;
 
 @EnderXModElements.ModElement.Tag
@@ -22,14 +22,14 @@ public class EnderXBlocksItemGroup extends EnderXModElements.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(EXNetherackBlock.block, (int) (1));
+				return new ItemStack(EXMarbleBrick2Block.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)
 			public boolean hasSearchBar() {
-				return true;
+				return false;
 			}
-		}.setBackgroundImageName("item_search.png");
+		};
 	}
 	public static ItemGroup tab;
 }

@@ -1,0 +1,22 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:exsmoothlimestoneblock"
+    },
+    "1": {
+      "item": "enderx22:exsmoothlimestoneblock"
+    },
+    "2": {
+      "item": "enderx22:exsmoothlimestoneblock"
+    }
+  },
+  "result": {
+    "item": "enderx22:exsmoothlimestoneslab",
+    "count": 6
+  }
+}

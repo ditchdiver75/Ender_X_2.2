@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EXRedDiamond"
+      },
+      {
+        "value": "CUSTOM:EXRedDiamond"
+      },
+      {
+        "value": "CUSTOM:EXRedDiamond"
+      },
+      {
+        "value": "CUSTOM:EXRedDiamond"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EXRedDiamond"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EX_Red_Diamond_ArmorArmor.helmet"
+    },
+    "name": "ex_red_diamond_armorarmorhelmetrecipe",
+    "namespace": "mod"
+  }
+}

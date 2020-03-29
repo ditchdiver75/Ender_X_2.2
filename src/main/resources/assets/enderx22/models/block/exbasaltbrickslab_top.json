@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "enderx22:blocks/basalt_bricks",
+    "top": "enderx22:blocks/basalt_bricks",
+    "side": "enderx22:blocks/basalt_bricks"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/sandstone_bricks",
+    "up": "enderx22:blocks/sandstone_bricks",
+    "north": "enderx22:blocks/sandstone_bricks",
+    "east": "enderx22:blocks/sandstone_bricks",
+    "south": "enderx22:blocks/sandstone_bricks",
+    "west": "enderx22:blocks/sandstone_bricks",
+    "particle": "enderx22:blocks/sandstone_bricks"
+  }
+}

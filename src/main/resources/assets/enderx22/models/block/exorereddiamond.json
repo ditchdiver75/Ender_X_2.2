@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/reddiamond_ore",
+    "up": "enderx22:blocks/reddiamond_ore",
+    "north": "enderx22:blocks/reddiamond_ore",
+    "east": "enderx22:blocks/reddiamond_ore",
+    "south": "enderx22:blocks/reddiamond_ore",
+    "west": "enderx22:blocks/reddiamond_ore",
+    "particle": "enderx22:blocks/reddiamond_ore"
+  }
+}

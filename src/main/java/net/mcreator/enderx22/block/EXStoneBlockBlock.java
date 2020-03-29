@@ -51,7 +51,7 @@ public class EXStoneBlockBlock extends EnderXModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, 1));
+			return Collections.singletonList(new ItemStack(ExCobblestoneBlockBlock.block, (int) (1)));
 		}
 	}
 }

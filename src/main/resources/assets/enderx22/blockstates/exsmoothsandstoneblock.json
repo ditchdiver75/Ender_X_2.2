@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "enderx22:block/exsmoothsandstoneblock"
+    },
+    "facing=east": {
+      "model": "enderx22:block/exsmoothsandstoneblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "enderx22:block/exsmoothsandstoneblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "enderx22:block/exsmoothsandstoneblock",
+      "y": 270
+    }
+  }
+}

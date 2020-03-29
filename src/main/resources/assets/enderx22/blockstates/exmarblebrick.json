@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "enderx22:block/exmarblebrick"
+    },
+    "facing=east": {
+      "model": "enderx22:block/exmarblebrick",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "enderx22:block/exmarblebrick",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "enderx22:block/exmarblebrick",
+      "y": 270
+    }
+  }
+}

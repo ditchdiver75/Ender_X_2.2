@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "enderx22:blocks/smooth_stone",
+    "particle": "enderx22:blocks/smooth_stone"
+  }
+}

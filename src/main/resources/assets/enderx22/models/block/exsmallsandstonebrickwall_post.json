@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "enderx22:blocks/small_sandstone_bricks",
+    "particle": "enderx22:blocks/small_sandstone_bricks"
+  }
+}

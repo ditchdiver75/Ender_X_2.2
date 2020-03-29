@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "enderx22:blocks/smooth_marble",
+    "top": "enderx22:blocks/smooth_marble",
+    "side": "enderx22:blocks/smooth_marble"
+  }
+}

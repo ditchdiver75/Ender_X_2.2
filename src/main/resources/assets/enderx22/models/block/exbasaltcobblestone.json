@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "enderx22:blocks/basalt_cobblestone",
+    "up": "enderx22:blocks/basalt_cobblestone",
+    "north": "enderx22:blocks/basalt_cobblestone",
+    "east": "enderx22:blocks/basalt_cobblestone",
+    "south": "enderx22:blocks/basalt_cobblestone",
+    "west": "enderx22:blocks/basalt_cobblestone",
+    "particle": "enderx22:blocks/basalt_cobblestone"
+  }
+}

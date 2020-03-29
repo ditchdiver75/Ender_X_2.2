@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "enderx22:blocks/smoothlimstone",
+    "top": "enderx22:blocks/smoothlimstone",
+    "side": "enderx22:blocks/smoothlimstone"
+  }
+}

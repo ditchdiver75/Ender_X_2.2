@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "enderx22:blocks/smooth_sandstone",
+    "top": "enderx22:blocks/smooth_sandstone",
+    "side": "enderx22:blocks/smooth_sandstone"
+  }
+}

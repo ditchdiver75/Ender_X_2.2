@@ -4,8 +4,8 @@
   "definition": {
     "name": "Ender X Blocks",
     "icon": {
-      "value": "CUSTOM:EXNetherack"
+      "value": "CUSTOM:EXMarbleBrick2"
     },
-    "showSearch": true
+    "showSearch": false
   }
 }

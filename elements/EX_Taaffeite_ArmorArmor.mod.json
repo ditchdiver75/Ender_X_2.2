@@ -1,0 +1,51 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ex_taaffeite_armor_head",
+    "enableBody": true,
+    "textureBody": "ex_taaffeite_armor_body",
+    "enableLeggings": true,
+    "textureLeggings": "ex_taaffeite_armor_leggings",
+    "enableBoots": true,
+    "textureBoots": "ex_taaffeite_armor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:EnderXItems"
+    },
+    "armorTextureFile": "ex_taaffeite_armor",
+    "helmetName": "EX_Taaffeite_Armor Helmet",
+    "bodyName": "EX_Taaffeite_Armor Chestplate",
+    "leggingsName": "EX_Taaffeite_Armor Leggings",
+    "bootsName": "EX_Taaffeite_Armor Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 150,
+    "damageValueHelmet": 22,
+    "damageValueBody": 53,
+    "damageValueLeggings": 62,
+    "damageValueBoots": 22,
+    "enchantability": 90,
+    "toughness": 3.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:EXTaffeiteGem"
+      }
+    ]
+  }
+}

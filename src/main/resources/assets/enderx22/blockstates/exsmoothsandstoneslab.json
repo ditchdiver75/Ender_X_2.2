@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderx22:block/exsmoothsandstoneslab"
+    },
+    "type=top": {
+      "model": "enderx22:block/exsmoothsandstoneslab_top"
+    },
+    "type=double": {
+      "model": "enderx22:block/exsmoothsandstoneslab_full"
+    }
+  }
+}

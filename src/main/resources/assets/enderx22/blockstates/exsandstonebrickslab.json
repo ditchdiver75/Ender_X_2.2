@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderx22:block/exsandstonebrickslab"
+    },
+    "type=top": {
+      "model": "enderx22:block/exsandstonebrickslab_top"
+    },
+    "type=double": {
+      "model": "enderx22:block/exsandstonebrickslab_full"
+    }
+  }
+}

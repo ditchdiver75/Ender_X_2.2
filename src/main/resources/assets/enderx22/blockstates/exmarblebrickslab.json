@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "enderx22:block/exmarblebrickslab"
+    },
+    "type=top": {
+      "model": "enderx22:block/exmarblebrickslab_top"
+    },
+    "type=double": {
+      "model": "enderx22:block/exmarblebrickslab_full"
+    }
+  }
+}

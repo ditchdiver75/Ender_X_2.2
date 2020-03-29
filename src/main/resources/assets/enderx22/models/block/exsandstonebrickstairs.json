@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "enderx22:blocks/sandstone_bricks",
+    "top": "enderx22:blocks/sandstone_bricks",
+    "side": "enderx22:blocks/sandstone_bricks"
+  }
+}

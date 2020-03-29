@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "enderx22:blocks/marble_bricks1",
+    "particle": "enderx22:blocks/marble_bricks1"
+  }
+}

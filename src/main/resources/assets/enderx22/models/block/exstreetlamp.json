@@ -1,0 +1,10 @@
+{
+  "parent": "enderx22:custom/street_lamp",
+  "textures": {
+    "all": "enderx22:blocks/liquid_metal_red",
+    "particle": "enderx22:blocks/liquid_metal_red",
+    "0": "enderx22:blocks/grey",
+    "1": "enderx22:blocks/tile_squares",
+    "2": "enderx22:blocks/liquid_metal_red"
+  }
+}

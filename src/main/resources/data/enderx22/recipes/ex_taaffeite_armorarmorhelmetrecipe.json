@@ -1,0 +1,29 @@
+{
+  "group": "enderx22",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "enderx22:extaffeitegem"
+    },
+    "1": {
+      "item": "enderx22:extaffeitegem"
+    },
+    "2": {
+      "item": "enderx22:extaffeitegem"
+    },
+    "3": {
+      "item": "enderx22:extaffeitegem"
+    },
+    "5": {
+      "item": "enderx22:extaffeitegem"
+    }
+  },
+  "result": {
+    "item": "enderx22:ex_taaffeite_armorarmorhelmet",
+    "count": 1
+  }
+}
